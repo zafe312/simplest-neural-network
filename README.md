@@ -1,1 +1,1 @@
-# simplest-neural-network
+# This is a collection of neural networks created only with NumPy
